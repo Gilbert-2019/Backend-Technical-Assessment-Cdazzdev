@@ -45,8 +45,11 @@ Because of this import, you can access the Admin dashboard with the respective c
 # Please consider the .env file for secure elements
 
 PORT = 
-NODE_ENV = 
+
+NODE_ENV =
+
 JWT_SECRET = 
+
 MONGO_URL = 
 
 
