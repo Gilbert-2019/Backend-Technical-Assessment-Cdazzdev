@@ -39,9 +39,6 @@ POST Method
 
 Because of this import, you can access the Admin dashboard with the respective credentials.
 
-
-npm run server
-
 # Reference
 
 ![Screenshot 2024-04-30 162932](https://github.com/Gilbert-2019/Backend-Technical-Assessment-Cdazzdev/assets/50843537/4911e2ca-f578-4285-ba8e-9c9a7ff09f46)
