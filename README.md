@@ -37,6 +37,8 @@ User details are already available in the data folder, user.js. Simply set the H
 POST Method
 /api/import/user
 
+Because of this import, you can access the Admin dashboard with the respective credentials.
+
 
 npm run server
 
