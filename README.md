@@ -41,6 +41,18 @@ POST Method
 
 Because of this import, you can access the Admin dashboard with the respective credentials.
 
+
+# Please consider the .env file for secure elements
+
+PORT = 
+
+NODE_ENV =
+
+JWT_SECRET = 
+
+MONGO_URL = 
+
+
 # Reference
 
 ![Screenshot 2024-04-30 162932](https://github.com/Gilbert-2019/Backend-Technical-Assessment-Cdazzdev/assets/50843537/4911e2ca-f578-4285-ba8e-9c9a7ff09f46)
