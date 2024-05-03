@@ -34,7 +34,7 @@ npm run server
 
 # import users - Authentication
 
-User details are already available in the data folder, user.js. Simply set the HTTP method to POST, add this endpoint, and click 'send' in Postman. This will import the user details, including admin.
+User details are already available in the data folder, users.js. Simply set the HTTP method to POST, add this endpoint, and click 'send' in Postman. This will import the user details, including admin.
 
 POST Method
 /api/import/user
