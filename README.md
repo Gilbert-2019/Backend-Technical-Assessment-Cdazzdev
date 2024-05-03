@@ -30,7 +30,7 @@ Once the dependencies are installed, start the application:
 npm run server
 
 
-# imort users - Authentication (Admin)
+# import users - Authentication
 
 User details are already available in the data folder, user.js. Simply set the HTTP method to POST, add this endpoint, and click 'send' in Postman. This will import the user details, including admin.
 
