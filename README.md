@@ -32,15 +32,6 @@ Once the dependencies are installed, start the application:
 npm run server
 
 
-# import users - Authentication
-
-User details are already available in the data folder, users.js. Simply set the HTTP method to POST, add this endpoint, and click 'send' in Postman. This will import the user details, including admin.
-
-POST Method
-/api/import/user
-
-Because of this import, you can access the Admin dashboard with the respective credentials.
-
 
 # Please consider the .env file for secure elements
 
@@ -51,6 +42,17 @@ NODE_ENV =
 JWT_SECRET = 
 
 MONGO_URL = 
+
+
+
+# import users - Authentication
+
+User details are already available in the data folder, users.js. Simply set the HTTP method to POST, add this endpoint, and click 'send' in Postman. This will import the user details, including admin.
+
+POST Method
+/api/import/user
+
+Because of this import, you can access the Admin dashboard with the respective credentials.
 
 
 # Reference
